@@ -30,3 +30,6 @@ table{
 th{
     background-color:#FFE4C4;
 }
+input, select, textarea{
+    padding:5px;
+}
