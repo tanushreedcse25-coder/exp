@@ -40,3 +40,10 @@ input[type="submit"]{
     border:none;
     padding:8px;
 }
+
+}
+
+input[type="submit"]:hover{
+    background-color:#b5835a;
+    cursor:pointer;
+}
