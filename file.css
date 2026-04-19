@@ -37,7 +37,6 @@ input, select, textarea{
 input[type="submit"]{
     background-color:#d4a373;
     color:white;
-    border:none;
     padding:8px;
 }
 
