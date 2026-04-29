@@ -1,5 +1,5 @@
 function showPage(pageId) {
-    console.log("Clicked:", pageId); // debug
+    console.log("Clicked:", pageId);
 
     let pages = document.querySelectorAll('.page');
 
