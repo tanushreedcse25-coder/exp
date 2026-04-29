@@ -6,7 +6,6 @@ function showPage(pageId) {
     pages.forEach(page => {
         page.classList.remove('active-page');
     });
-
     let targetPage = document.getElementById(pageId);
     if (targetPage) {
         targetPage.classList.add('active-page');
