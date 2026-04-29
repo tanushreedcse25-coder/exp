@@ -16,7 +16,6 @@ body {
 .navbar .nav-link {
     transition: 0.3s;
 }
-
 .navbar .nav-link:hover {
     color: #ffc107 !important;
     transform: scale(1.1);
