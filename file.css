@@ -8,8 +8,6 @@ body {
 .active-page {
     display: block !important;
 }
-
-/* Hero */
 .hero {
     height: 90vh;
     background: url('https://images.unsplash.com/photo-1600891964599-f61ba0e24092') center/cover;
