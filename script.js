@@ -1,4 +1,4 @@
-// Page switch
+
 function showPage(pageId) {
     let pages = document.querySelectorAll('.page');
 
