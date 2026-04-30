@@ -20,8 +20,6 @@ function filterMenu(type) {
         }
     });
 }
-
-// Booking
 function bookTable() {
     alert("Table Booked Successfully!");
     return false;
