@@ -4,7 +4,6 @@ body {
 .page {
     display: none !important;
 }
-
 .active-page {
     display: block !important;
 }
@@ -20,8 +19,6 @@ body {
     color: #ffc107 !important;
     transform: scale(1.1);
 }
-
-/* 🔥 Button Hover */
 .btn {
     transition: 0.3s;
 }
