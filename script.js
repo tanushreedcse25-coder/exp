@@ -5,17 +5,13 @@ function showPage(pageId) {
     pages.forEach(function(page) {
         page.classList.remove('active-page');
     });
-
     let target = document.getElementById(pageId);
     if (target) {
         target.classList.add('active-page');
     }
 }
-
-// Menu filter
 function filterMenu(type) {
     let items = document.querySelectorAll('.menu-item');
-
     items.forEach(function(item) {
         if (type === 'all' || item.classList.contains(type)) {
             item.style.display = "block";
