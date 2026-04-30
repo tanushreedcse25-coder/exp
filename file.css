@@ -27,8 +27,6 @@ body {
     transform: scale(1.05);
     opacity: 0.9;
 }
-
-/* 🔥 Card Hover (Menu items) */
 .card {
     transition: 0.3s;
 }
