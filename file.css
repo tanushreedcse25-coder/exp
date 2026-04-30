@@ -42,8 +42,6 @@ img {
 img:hover {
     transform: scale(1.08);
 }
-
-/* Gallery Items - Equal Size */
 .gallery-item {
     margin-bottom: 20px;
 }
