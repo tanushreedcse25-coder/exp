@@ -1,4 +1,4 @@
-/* ========================= */
+======================= */
 /* 🔥 RESPONSIVE CSS ONLY */
 /* ========================= */
 
@@ -17,7 +17,7 @@
         width: 100%;
     }
 
-    .navbar .nav-link {
+    .navbar .nav-link {/* ==
         display: block;
         padding: 10px;
         font-size: 14px;
